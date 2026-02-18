@@ -1,0 +1,20 @@
+# AI & Math
+torch
+torchaudio
+librosa
+numpy
+pandas
+scikit-learn
+
+# Media Handling
+moviepy
+pathlib
+soundfile
+
+# UI & Processing
+tqdm
+
+# Hugging Face
+transformers
+datasets
+accelerate

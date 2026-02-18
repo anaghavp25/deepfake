@@ -1,0 +1,7 @@
+# Ignore the actual audio data and Kaggle files
+processed_data/
+KAGGLE/
+sentinel_model_checkpoints/
+__pycache__/
+*.flac
+*.wav
